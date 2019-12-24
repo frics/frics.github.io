@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>ratsgo's blog</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-12-25T02:25:09+09:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>ratsgo</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>이제 블로그 시작</title>
+   <link href="http://localhost:4000/daily/2017/03/07/start/"/>
+   <updated>2017-03-07T00:00:00+09:00</updated>
+   <id>http://localhost:4000/daily/2017/03/07/start</id>
+   <content type="html">&lt;p&gt;이틀 간 기나긴 삽질 끝에 깃헙을 파고 드디어 블로그를 시작하게 됐다. jekyll을 이용한 블로그는 네이버나 티스토리 블로그에 비해 자유도가 높지만 진입장벽 또한 높아서 처음 세팅하는 데 무척 애를 먹었다. 공부한 내용들과 의문점들을 차곡차곡 적어나갈 계획이다. 일단은 자연언어처리, 머신러닝, 언어학 따위의 글들을 적을 것 같다. 초심을 잃지 말아야지..&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
