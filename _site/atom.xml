@@ -17,9 +17,7 @@
    <link href="http://localhost:4000/daily/2020/01/05/start/"/>
    <updated>2020-01-05T00:00:00+09:00</updated>
    <id>http://localhost:4000/daily/2020/01/05/start</id>
-   <content type="html">&lt;p&gt;2019년도 2학기 오픈소스 기반 기초 설계때 얻은 지식을 바탕으로 GitHub블로그를 시작하게 됐다.&lt;br /&gt;
-한학기 동안 공부한게 있어서 어렵진 않았지만 아직 미숙한것 같다.&lt;br /&gt;
-블로그는 앞으로 공부할 내용이나 공부했던 것들을 복기 하는데 사용될 예정이다.&lt;/p&gt;
+   <content type="html">&lt;p&gt;2019년도 2학기 오픈소스 기반 기초 설계때 얻은 지식을 바탕으 GitHub블로그를 시작하게 됐다. 한학기 동안 공부한게 있어서 어렵진 않았지만 아직 미숙한것 같다. 블로그는 앞으로 공부할 내용이나 공부했던 것들을 복기 하는데 사용될 예정이다.&lt;/p&gt;
 </content>
  </entry>
  
