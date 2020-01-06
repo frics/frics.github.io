@@ -1,9 +1,6 @@
-# ratsgo's blog
+# frics's blog
 
-안녕하세요, 이기창이라고 합니다.
-현재는 NAVER Chatbot Model 팀에서 일하고 있습니다.
-제 컨택포인트는 아래와 같습니다.
+컴퓨터 공학을 공부하고 잇는 학생입니다.
+현재 아직 학부 과정 재학중입니다.
 
-E-mail : ratsgo@naver.com
-
-blog : https://ratsgo.github.io
+ 이 블로그는 "ratsgo님의 블로그를 기반으로 제작했습니다."
