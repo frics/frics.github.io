@@ -9,10 +9,10 @@
     } ,
   
     {
-      "title"    : "스택",
-      "category" : "자료구조",
+      "title"    : "스택(By Java)",
+      "category" : "DataStructure",
       "tags"     : "start, DataStructure, soongsil, SSU",
-      "url"      : "/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/2020/01/05/stack/",
+      "url"      : "/datastructure/2020/01/05/stack/",
       "date"     : "2020-01-05 00:00:00 +0900"
     } 
   
