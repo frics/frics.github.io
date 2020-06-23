@@ -4,7 +4,11 @@
  <title>Frics's blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
+<<<<<<< HEAD
  <updated>2020-06-23T16:19:18+09:00</updated>
+=======
+ <updated>2020-06-23T16:05:56+09:00</updated>
+>>>>>>> master
  <id>http://localhost:4000</id>
  <author>
    <name>Frics</name>
@@ -15,7 +19,11 @@
  <entry>
    <title></title>
    <link href="http://localhost:4000/2020/06/23/2020-06-23-Stack/"/>
+<<<<<<< HEAD
    <updated>2020-06-23T16:19:18+09:00</updated>
+=======
+   <updated>2020-06-23T16:05:56+09:00</updated>
+>>>>>>> master
    <id>http://localhost:4000/2020/06/23/2020-06-23-Stack</id>
    <content type="html">&lt;p&gt;이 포스팅은 숭실대학교 컴퓨터학부 신용태 교수님의 자료구조 수업을 기반으로 작성되었습니다.&lt;/p&gt;
 </content>
