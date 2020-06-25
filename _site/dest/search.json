@@ -1,18 +1,26 @@
 [
   
     {
+      "title"    : "스택(Stack)",
+      "category" : "DataStructure",
+      "tags"     : "DataStructure, soongsil, SSU",
+      "url"      : "/datastructure/2020/06/22/stack/",
+      "date"     : "2020-06-22 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "큐(Queue)",
+      "category" : "DataStructure",
+      "tags"     : "DataStructure, soongsil, SSU",
+      "url"      : "/datastructure/2020/06/22/queue/",
+      "date"     : "2020-06-22 00:00:00 +0900"
+    } ,
+  
+    {
       "title"    : "이제 블로그 시작",
       "category" : "daily",
       "tags"     : "start, github, soongsil, SSU",
       "url"      : "/daily/2020/01/05/start/",
-      "date"     : "2020-01-05 00:00:00 +0900"
-    } ,
-  
-    {
-      "title"    : "스택(By Java)",
-      "category" : "DataStructure",
-      "tags"     : "start, DataStructure, soongsil, SSU",
-      "url"      : "/datastructure/2020/01/05/stack/",
       "date"     : "2020-01-05 00:00:00 +0900"
     } 
   
